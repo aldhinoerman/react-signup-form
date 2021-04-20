@@ -1,0 +1,74 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+* {
+  font-family: 'Raleway', sans-serif;
+}
+
+.yellow {
+  background-color: gold;
+  text-align: center;
+  font-weight: 700;
+  padding: 2px 2px;
+}
+
+.yellow p {
+  margin-top: 10px;
+}
+
+.white {
+  width: 100%;
+  background-color: whitesmoke;
+  padding: 10px 10px;
+}
+
+.form__container h4 {
+  margin-top: 50px;
+  font-weight: 600;
+}
+
+.form-label {
+  font-weight: 600;
+}
+
+.form-label span{
+  font-weight: 600;
+  color: red;
+  font-size: 28px;
+}
+
+.form-check {
+  margin-top: 20px;
+}
+
+.form-check-label {
+  font-style: italic;
+}
+
+.yellow__checkbox{
+  font-style: normal;
+}
+
+.custom-control-label {
+  font-weight: bold;
+}
+
+.submit__form {
+  background-color: gold;
+  border-color: gold;
+  color: black;
+  font-weight: 700;
+  padding: 10px 20px 10px 20px;
+}
+
+.footer {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.footer span{
+  font-weight: 700;
+}
+
+.App {
+  text-align: center;
+}
